@@ -30,3 +30,6 @@ This app allows users to view and browse through all the products of my shoe ret
 
 ## Splash Screen when the view our products button has been clicked and products are loading from the API
 ![loading_products](https://github.com/obialohenry/kicks/assets/108239673/6268aeee-6143-4325-bd16-80ee205a72d2)
+
+## Kicks Products Screen
+![product_screen](https://github.com/obialohenry/kicks/assets/108239673/46c15bc5-4a62-47ee-93b5-98e79402134d)
